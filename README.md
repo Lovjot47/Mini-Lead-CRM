@@ -139,8 +139,6 @@ AI tools were used to speed up boilerplate-heavy areas (query/mutation scaffoldi
 
 ## Screen Recording (1-3 minutes)
 
-Add your walkthrough link here before submission:
+walkthrough link 
 
-- Recording link: `PASTE_YOUR_LOOM_OR_VIDEO_LINK_HERE`
-
-Suggested flow: list filters/search -> create/edit/delete -> status transitions -> board drag/drop -> bulk actions.
+- Recording link: https://drive.google.com/file/d/1kyHb5qNhPkowcLxr4Zqb37U0J9z55r18/view?usp=sharing
